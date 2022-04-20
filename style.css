@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgba(189, 93, 56,1);
+    width: 17rem;
+    height: 100vh;
+    position: fixed;
+    
+}
+   
+.img{
+    width: 160px;
+    height: 160px;
+    margin: 50% 0 0 20%;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2); 
+    border-radius: 50%;
+}
+
+.navbar-about ul li{
+    
+    padding: 10px 8px;
+    text-align: center;
+}
+
+.navbar-about ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.55);
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+}
+.navbar-about ul li a:hover{
+    color: white;
+    
+}
+a.active:hover{
+    color: white;
+   
+}
+.section{
+    margin-left: 20%;
+}
+.section-resume{
+   
+   padding: 5rem 3rem;
+   
+}
+.section-resume span{
+    color: rgba(189, 93, 56,1);
+    
+}
+.section-resume h1{
+    letter-spacing: -0.3rem;
+    color: #343a40;;
+    margin-top: 90px;
+    font-size: 70px;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}
+.address{
+    color: #6c757d;
+    font-size: 24px;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin-bottom: 3rem;
+    letter-spacing: -0.15rem;
+}
+.address a{
+    color: rgba(189, 93, 56,1);
+}
+.info{
+    width: 90%;
+    font-size: 18.4px;
+    color: #6c757d;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.section-resume2{
+  
+   padding: 5rem 3rem;
+   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.section-resume2 h2{
+    margin: 0 0 48px;
+    color: #343a40;
+    font-size: 40px;
+    
+}
+.mini-content h2{
+    letter-spacing: -0.20rem;
+    font-size:30px ;
+    padding: 0;
+    margin-bottom: 10px;
+}
+.mini-content h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info2{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present1{
+    float: right;
+    color: rgba(189, 93, 56,1);
+    
+}
+.mini-content2 h2{
+    letter-spacing: -0.20rem;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mini-content2 h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info3{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present2{
+    float: right;
+    color: rgba(189, 93, 56,1);
+}
+.mini-content3 h2{
+    letter-spacing: -0.17rem;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mini-content3 h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info4{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present3{
+    float: right;
+    color: rgba(189, 93, 56,1);
+}
+.mini-content4 h2{
+    letter-spacing: -0.17rem;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mini-content4 h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info5{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present4{
+    float: right;
+    color: rgba(189, 93, 56,1);
+}
+.section-resume3{
+    padding: 5rem 3rem;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+ }
+ .section-resume3 h2{
+     margin: 0 0 48px;
+     color: #343a40;
+     font-size: 40px;
+ }
+ .mini-content5 h2{
+    letter-spacing: -0.17rem;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mini-content5 h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info6{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present5{
+    float: right;
+    color: rgba(189, 93, 56,1);
+}
+.mini-content6 h2{
+    letter-spacing: -0.17rem;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mini-content6 h3{
+    font-size:20px ;
+    margin: 0 0 16px;
+    color: #6c757d;;
+
+}
+.info7{
+    width: 70%;
+    font-size: 16px;
+    color: #6c757d;;
+}
+.present6{
+    float: right;
+    color: rgba(189, 93, 56,1);
+}
+
+.section-resume4{
+    margin-bottom: 0;
+    padding: 5rem 3rem;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+ }
+ .section-resume4 h2{
+    margin: 0 0 48px;
+    color: #343a40;
+    font-size: 40px;
+}
+.mini-content7 h2{
+   letter-spacing: -0.10rem;
+   margin-top: 40px;
+   font-size: 20px;
+   margin-bottom: 10px;
+   color: #6c757d;
+}
+.mini-content7 h3{
+   letter-spacing: -0.10rem;
+   font-size:20px ;
+   margin: 0 0 16px;
+   color: #6c757d;
+
+}
+.info8{
+   width: 70%;
+   font-size: 16px;
+   color: #6c757d;
+   
+}
+.section-resume5{
+    
+    padding: 5rem 3rem;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+ }
+ .section-resume5 h2{
+    padding-bottom: 30px;
+    color: #343a40;
+    font-size: 40px;
+}
+.info9{
+    padding: 5px 0 ;
+    
+    font-size: 16px;
+    color: #6c757d;;
+ }
+ .section-resume6{
+    
+    padding: 5rem 3rem;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+ }
+ .section-resume6 h2{
+    padding-bottom: 30px;
+    color: #343a40;
+    font-size: 40px;
+}
+.info10{
+    padding: 3px 0 ;
+    width: 60%;
+    font-size: 16px;
+    color: #6c757d;;
+ }
+
+
